@@ -3,7 +3,7 @@
 :jbake-type: page
 :jbake-status: published
 
-Before taking a look at `@AccessTimeout`, it might help to see when a caller might have to "wait".
+Before taking a look at `@AccessTimeout`, it might help to see when a caller might have to "wait"
 
 == Waiting
 
